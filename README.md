@@ -1,4 +1,4 @@
-# Universal indoors robor platform
+# Universal indoors robot platform
 The robot was built of 30x30 aluminum profiles. It has been equipped with two DC motors with 24V supply voltage. The power source was two batteries placed in a pull-out drawer made of plastic. The whole was enclosed with 3 elements cut from checker plate: rear, roof and bumper. The sides are made of plastic covered with foil (carbon pattern).
 
 Other part of the robot was external raspberry Pi 3b+ wich served as mqtt broker.
